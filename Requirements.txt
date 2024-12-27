@@ -1,0 +1,8 @@
+Required Libraries to Download:
+
+NumPy
+Pandas
+Matplotlib
+Tensorflow
+Keras
+PIL
