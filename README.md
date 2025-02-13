@@ -1,4 +1,4 @@
-Vegitable Name Recognization Project
+Vegetable Name Recognition Project
 
 
 The Vegetable Name Recognition Project leverages the power of neural networks to accurately identify vegetables from an image dataset. With the growing need for efficient food classification in various fields, such as smart kitchens, agriculture, and supply chain management, this project focuses on recognizing 15 commonly used vegetables:
